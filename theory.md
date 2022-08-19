@@ -523,7 +523,7 @@ Yes, It is. It can make model performance better through selecting the most impo
 **Which feature selection techniques do you know? ‍⭐️**
 
 Here are some of the feature selections:
-- Principal Component Analysis
+- Lasso
 - Neighborhood Component Analysis
 - ReliefF Algorithm
 
